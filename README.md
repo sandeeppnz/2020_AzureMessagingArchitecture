@@ -60,6 +60,10 @@ Transform using Stream Analytics
 ### Sample
 https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data/fraud-detection
 
+Uses Stream Analytics
+- Input: Event Hub
+- Output: Power BI, Blob Storage
+
 
 ## Event Grid
 - React to status changes
