@@ -53,6 +53,8 @@ Storage Accounts: BlobStorage and General Purpose. Permission are set using keys
 - Consumer group / Partitioning
 - Ability to Capture for long-term storing
 - Explore the bus using ServiceBusExplorer
+
+Transform using Stream Analytics
 ![Capture2](https://user-images.githubusercontent.com/5715815/87635424-200c0500-c793-11ea-81f1-695a1a206eb3.PNG)
 
 
