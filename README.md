@@ -11,7 +11,8 @@ Async operations
 - Server-logging
 - Larger than 80 GB queues
 - No need of ordering
-
+- RBAC authorisation on storage accounts
+- Geo-availability but not geo-disaster recovery
 Storage Accounts: BlobStorage and General Purpose. Permission are set using keys
 
 
@@ -27,6 +28,9 @@ Storage Accounts: BlobStorage and General Purpose. Permission are set using keys
 - Shared Access Signature (SAS) token/policy
 - Azure AD: User, Service 
 - AMQP (vendor neutral), TCP, broker independent
+- RBAC authorisation granular
+- Geo-availability and geo-disaster recovery at namespace level
+
 -------------------------------------------------------------------------------
 - Queue: Ordered, timestamped message storage; point-to-point; pull-mode delivery
 - Topic: Pub/Sub patter; point-to-multipoint communication
