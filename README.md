@@ -8,6 +8,7 @@ Async operations
 - max message size 64KB
 - stor-account.queue.core.windows.net/queue-name
 - GET/PUT/PEEK
+- Server-logging
 
 
 ## Service Bus
