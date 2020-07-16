@@ -2,6 +2,14 @@
 
 Async operations 
 
+## Azure Storage Queue
+- FIFO
+- max life 7 days
+- max message size 64KB
+- stor-account.queue.core.windows.net/queue-name
+- GET/PUT/PEEK
+
+
 ## Service Bus
 Order processing and financial transactions
 Messsage
