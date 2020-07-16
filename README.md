@@ -18,12 +18,19 @@ Storage Accounts: BlobStorage and General Purpose. Permission are set using keys
 ## Service Bus
 - Order processing and financial transactions
 - Messsage
-
-------------
+- Message size 256KB
+- Persistence is unlimited
+- Dead lettering
+- Deduplication
+- Peek and lock/Receive delete
+- Shared Access Signature (SAS) token/policy
+- Azure AD: User, Service 
+- AMQP (vendor neutral), TCP, broker independent
+-------------------------------------------------------------------------------
 - Queue: Ordered, timestamped message storage; point-to-point; pull-mode delivery
 - Topic: Pub/Sub patter; point-to-multipoint communication
 - Relay: Allows on-prem WCF services to connect into Azure
-------------
+-------------------------------------------------------------------------------
 
 
 
