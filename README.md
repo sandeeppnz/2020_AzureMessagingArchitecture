@@ -86,3 +86,4 @@ Uses Stream Analytics
 ## Other
 ![Capture5](https://user-images.githubusercontent.com/5715815/87637455-57c87c00-c796-11ea-9190-9e9ed8056863.PNG)
 
+![Capture7](https://user-images.githubusercontent.com/5715815/87637925-0c629d80-c797-11ea-9d80-a63b5026e49d.PNG)
