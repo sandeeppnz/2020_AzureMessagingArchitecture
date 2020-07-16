@@ -80,6 +80,8 @@ Uses Stream Analytics
 - BizTalk Server
 
 
+## Azure Web Jobs
+
 
 ## Other
 ![Capture5](https://user-images.githubusercontent.com/5715815/87637455-57c87c00-c796-11ea-9190-9e9ed8056863.PNG)
