@@ -9,7 +9,8 @@ Async operations
 - stor-account.queue.core.windows.net/queue-name
 - GET/PUT/PEEK
 - Server-logging
-
+- Larger than 80 GB queues
+- No need of ordering
 
 Storage Accounts: BlobStorage and General Purpose. Permission are set using keys
 
