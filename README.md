@@ -46,7 +46,11 @@ Storage Accounts: BlobStorage and General Purpose. Permission are set using keys
 
 ![Capture](https://user-images.githubusercontent.com/5715815/87634910-4c735180-c792-11ea-8a6a-91c77d1cd32a.PNG)
 
-
+- Event Hub can expose Kafka topics
+- Publishers: AMQP, HTTPS, SAS tokens
+- Ordered events sequence held in the Event Hub
+- Massive Parallel processing
+- Consumer group / Partitioning
 
 ## Event Grid
 - React to status changes
