@@ -68,3 +68,6 @@ Uses Stream Analytics
 ## Event Grid
 - React to status changes
 - Event distribution
+
+![Capture3](https://user-images.githubusercontent.com/5715815/87636377-c73d6c00-c794-11ea-96f1-116f61a81383.PNG)
+
